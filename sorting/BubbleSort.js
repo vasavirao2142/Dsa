@@ -14,4 +14,5 @@ function bubbleSort(nums){
 }
 
 
-console.log("Array",bubbleSort([5,8,3,2]))
+// console.log("Array",bubbleSort([5,8,3,2]))
+ console.log("Array",bubbleSort([12,25,2,8,5]))
